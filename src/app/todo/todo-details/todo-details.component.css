@@ -1,0 +1,27 @@
+p
+{
+  padding-top: 30px;
+  padding-left: 50%;
+  font-size: 25px;
+  color: #21a7ac;
+  font-family: sans-serif;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+#tasks {
+  font-family: sans-serif;
+  position: center;
+  border-collapse: collapse;
+}
+
+#tasks td, #tasks th {
+  border: 1px solid rgb(31, 28, 28);
+  padding: 8px;
+  text-align: center;
+}
+
+#tasks tr:nth-child(even){background-color: #21a7ac;}
+
+#tasks tr:hover {background-color: #21a7ac;}

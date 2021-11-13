@@ -1,0 +1,27 @@
+h1
+{
+  padding-top: 30px;
+  padding-left: 48%;
+  font-size: 25px;
+  color: #1e3333;
+  font-family: sans-serif;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+#mission {
+  font-family: sans-serif;
+  position: center;
+  border-collapse: collapse;
+}
+
+#mission td, #mission th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+#mission tr:nth-child(even){background-color: #0f7477;}
+
+#mission tr:hover {background-color: #21a7ac;}

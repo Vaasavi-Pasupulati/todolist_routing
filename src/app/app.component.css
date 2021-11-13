@@ -1,0 +1,16 @@
+.buttons
+{
+
+    left: 50%;
+    overflow: hidden;
+}
+button{
+    position: relative;
+    left: 43%;
+    align-items: center;
+    border-radius: 8px;
+    background-color: white;
+    color: black;
+    border: 2px solid aqua;
+    padding: 14px 40px;
+}
